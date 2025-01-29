@@ -1,0 +1,11 @@
+# Android Studio files
+.idea/
+*.iml
+.gradle/
+build/
+local.properties
+.DS_Store
+
+# APKs and log files
+*.apk
+*.log
